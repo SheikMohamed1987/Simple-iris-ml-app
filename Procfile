@@ -1,1 +1,1 @@
-worker: streamlit run Iris.py
+web: streamlit run Iris.py runserver 0.0.0.0:$PORT
