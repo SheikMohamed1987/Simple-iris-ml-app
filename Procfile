@@ -1,1 +1,1 @@
-web: gunicorn Iris.py --log-file -
+web: gunicorn Iris.py
