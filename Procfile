@@ -1,1 +1,1 @@
-web: streamlit run Iris.py
+web: gunicorn Iris:app
