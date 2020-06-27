@@ -1,1 +1,1 @@
-web: python Iris.py
+web: gunicorn Iris.py
