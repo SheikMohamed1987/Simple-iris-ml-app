@@ -1,1 +1,1 @@
-web: python Iris.py
+web: streamlit run Iris.py
