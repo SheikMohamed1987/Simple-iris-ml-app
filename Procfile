@@ -1,1 +1,1 @@
-web: gunicorn Iris:app
+web: gunicorn simple-iris-ml-app:app
