@@ -1,1 +1,1 @@
-web: gunicorn Iris:application
+worker: python Iris.py
