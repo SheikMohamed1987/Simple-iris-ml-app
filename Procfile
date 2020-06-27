@@ -1,1 +1,1 @@
-web: gunicorn simple-iris-ml-app:app
+web: gunicorn Iris:server
