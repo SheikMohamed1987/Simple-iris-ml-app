@@ -1,1 +1,1 @@
-web: streamlit run Iris.py
+web: sh setup.sh && streamlit run Iris.py
