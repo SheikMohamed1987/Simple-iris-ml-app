@@ -1,1 +1,1 @@
-worker: python Iris.py
+web: python Iris.py
