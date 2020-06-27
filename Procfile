@@ -1,1 +1,1 @@
-web: streamlit run Iris.py
+worker: streamlit run Iris.py
